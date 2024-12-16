@@ -1,0 +1,15 @@
+{
+  "name": "stock-cutter",
+  "version": "1.0.0",
+  "description": "A Node.js library for optimizing stock cutting with minimal waste.",
+  "type": "module",
+  "main": "./src/StockCutter.js",
+  "bin": {
+    "stock-cutter": "./bin/stock-cutter"
+  },
+  "scripts": {
+    "start": "node bin/stock-cutter",
+    "test": "node tests/StockCutter.test.js"
+  },
+  "author": "Özgür VURGUN"
+}
