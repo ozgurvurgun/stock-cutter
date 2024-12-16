@@ -69,7 +69,7 @@ npm test
 ### About the Tests
 If all tests pass, you should see an output similar to this:
 
-✅ Basic Scenario passed
-✅ No Parts passed
-✅ Parts Too Big passed
-✅ Many Small Parts passed
+- ✅ Basic Scenario passed
+- ✅ No Parts passed
+- ✅ Parts Too Big passed
+- ✅ Many Small Parts passed
